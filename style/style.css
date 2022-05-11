@@ -1,0 +1,268 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 1120px;
+    margin: auto;
+}
+
+.header_list{
+    background: url(../img/rasm.png) center/cover;
+    max-width: 1920px;
+    height: 940px;
+}
+
+.header_list1{
+    display: flex;
+    padding-top: 16px;
+}
+
+.header_img{
+    position: absolute;
+    left: 200px;
+}
+
+.header_img1{
+    margin-left: 25px;
+}
+
+.header_text h2{
+    font-family: 'PT Serif', serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26px;
+    color: #FFFFFF;
+    margin-left: 11px;
+    margin-top: 3px;
+}
+
+.header_text h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin-left: 11px;
+}
+
+.header_tel{
+    display: flex;
+    margin-left: 374px;
+}
+
+.header_tel h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 130%;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
+.header_tel a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin-top: 8px;
+    margin-left: 19px;
+    border-radius: 22px;
+    background: #886239;
+    width: 215px;
+    height: 44px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 130%;
+    color: #FFFFFF;
+}
+
+.hhhh{
+    border-top: 1px solid #FFFFFF;
+    margin-top: 23px;
+}
+
+.header_jep{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 27px;
+    /* border-top: 1px solid #FFFFFF;
+    border-bottom: 1px solid #FFFFFF; */   
+}
+
+.xxxx{
+    border-bottom: 1px solid #FFFFFF;
+    margin-top: 24px;
+}
+
+.header_jep a{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.header_log p{
+    font-family: 'PT Serif', serif;
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 130%;
+    color: #1F1E1E;
+    text-align: center;
+    margin-top: 49px;
+}
+
+.header_nak p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 140%;
+    color: #1F1E1E;
+    margin-top: 400px;
+}
+
+.header_nak1 a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #886239;
+    width: 250px;
+    height: 60px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    border-radius: 30px;
+}
+
+.main_list{
+    margin-top: 68px;
+}
+
+.main_list1{
+    display: flex;
+}
+
+.main_list2{
+    margin-right: 31px;
+    margin-top: 32px;
+    border: 1px solid #D9D9DE;
+}
+
+.main_list2 p{
+    background: #FFFFFF;
+    width: 238px;
+    height: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #1F1E1E;
+    margin-left: 19px;
+    padding-top: 12px;
+}
+
+.main_jig{
+    background: url(../img/kkkkkkk.png), url(../img/lllllll.png) center/cover;
+    max-width: 1920px;
+    height: 582px;
+    margin-top: 100px;
+}
+
+.main_jig1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 130%;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 32px;
+}
+
+.main_jig2{
+    display: flex;
+    margin-top: 62px;
+}
+
+.main_jig3{
+    margin-right: 80px;
+}
+
+.main_jig3 p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 130%;
+    color: #FFFFFF;
+}
+
+.main_vot p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    color: #1F1E1E;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.main_img{
+    margin-top: 40px;
+}
+
+.main_img1{
+    display: flex;
+}
+
+.main_img5{
+    display: flex;
+    margin-right: 32px;
+    margin-top: 32px;
+}
+.main_img3{
+    display: flex;
+    margin-top: 32px; 
+}
+.main_img4{
+    margin-left: 32px;
+}
+
+.main_img6{
+    margin-right: 32px;
+}
+
+.main_img7{
+    margin-top: 32px;
+}
+
+.main_img10{
+    margin-left: 32px;
+}
+
+.main_img8{
+    display: flex;
+}
+
+.main_den p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 130%;
+    color: #1F1E1E;
+    text-align: center;
+    margin-top: 182px;
+}
+
+.main_den div img{
+    margin-top: 46px;
+}
+
+
+
